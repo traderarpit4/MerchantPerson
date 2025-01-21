@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: minima
+minima:
+  skin: dark
+
 title: trader's home page.
 description: God help you all.
