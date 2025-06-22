@@ -1,7 +1,8 @@
-theme: jekyll-theme-minimal
-# theme: minima
-# minima:
- # skin: dark
+title: MerchantPerson
+description: A simple website for my personal projects and experiments.
+theme: just-the-docs
 
-title: traderarpit4
-description: The home of my weird little web projects and things. God help you all.
+url: https://merchantperson.org
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
