@@ -5,5 +5,5 @@ color_scheme: dark # Color scheme supports "light" (default) and "dark"
 
 url: https://merchantperson.org
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
