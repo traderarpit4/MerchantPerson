@@ -1,0 +1,14 @@
+title: MerchantPerson
+description: A simple website for my personal projects and experiments.
+theme: just-the-docs
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
+# Please just work lol
+
+
+url: https://merchantperson.org
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
