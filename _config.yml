@@ -3,10 +3,7 @@ description: A simple website for my personal projects and experiments.
 theme: just-the-docs
 
 # Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-
-# Please just work lol
-
+  color_scheme: dark
 
 url: https://merchantperson.org
 
