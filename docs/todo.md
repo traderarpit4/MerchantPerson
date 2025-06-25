@@ -12,14 +12,17 @@ The current to do list, broken down by project.
     * Might need to do this because it does seem to be using 20% without the Matrix services running or utilised. 
 - [ ] Nuke that "master" branch for the website pull request.
 - [ ] Add a page dedicated to linking to the various tools used to make this site and the various other services run through this site. 
+- [ ] Deploy Portainer for sanity and tracking Docker Containers
 
 ### Element // Matrix 
 - [ ] Finish experimental deployment of the Matrix Server
     - [ ] Create and serve a static page on Matrix server.
-    - [ ] Enable and test optional Matrix features. 
+    - [x] Enable and test optional Matrix features. 
         - [ ] Test voice call feature
     - [ ] Setup MDAD to serve a static page
         - [ ] Create an automation to build and publish this site to the folder serving the static page
+            - [ ] Use AUX
+            - [ ] 
         - [ ] Figure out some other way to serve a static site that plays well with MDAD
             - [ ] See if there's a way to use GitHub Pages for that deployment
 
