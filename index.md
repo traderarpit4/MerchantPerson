@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 # About
-This website serves as a personal playground for experiments with different dev tools and stuff. The site is meant to serve as a reference services and solutions I use to maintain and improve my infrastructure. Whether it's learning something new or keeping track of ongoing projects, this site is my hub for sharing progress and resources.
+This website serves as a personal playground for experiments with different dev tools and stuff. The site is meant to serve as a reference for services and solutions I use to maintain and improve my infrastructure. Whether it's learning something new or keeping track of ongoing projects, this site is my hub for sharing progress and resources.
 
 # Services
 ## The Campfire Discord Server
@@ -28,9 +28,17 @@ Are you a member of Campfire and would like to join the Matrix server for testin
 ### Uptime Kuma
 Useful little tool to make sure that everything is up and running the way that it should be. Mostly tells me when the Minecraft server is offline. 
 
-Campfire MC Uptime Kuma can be found at [Minecraft-Uptime]. This will be expanded to some other services eventually(tm). Most of the infrastructure, including Uptime Kuma run off of one(ish) server.
+Campfire MC Uptime Kuma can be found at [Minecraft Uptime]. This will be expanded to some other services eventually(tm). Most of the infrastructure, including Uptime Kuma run off of one(ish) server.
+
+## MerchantPerson.org Website
+This website is built using [Jekyll] with the [Just the Docs] template. Will eventually need to figure out a way to build/push to the Matrix server to deploy but that's a problem for future me. 
+
 
 ----
 
 [Matrix-Docker-Ansible-Deploy]: https://github.com/spantaleev/matrix-docker-ansible-deploy/tree/master
-[Minecraft-Uptime]: https://kuma.merchantperson.org/status/campfiremc
+[Minecraft Uptime]: https://kuma.merchantperson.org/status/campfiremc
+
+[Jekyll]: https://jekyllrb.com
+[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
+[GitHub Pages]: https://docs.github.com/en/pages

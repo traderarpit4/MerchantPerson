@@ -16,7 +16,7 @@ The current to do list, broken down by project.
 
 ### Element // Matrix 
 - [ ] Finish experimental deployment of the Matrix Server
-    - [ ] Create and serve a static page on Matrix server.
+    - [ ] Build/push MerchantPerson.org pages to the Matrix server as static pages.
     - [x] Enable and test optional Matrix features. 
         - [ ] Test voice call feature
     - [ ] Setup MDAD to serve a static page
