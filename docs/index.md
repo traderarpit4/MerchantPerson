@@ -21,7 +21,7 @@ Campfire MC is a server that's been around since around 2014-2015, and under my 
 ### Element // Matrix
 Currently working on deploying Element web and Matrix as a secure backup for Campfire using the [Matrix-Docker-Ansible-Deploy] Playbook. It definitely wasn't a mild nightmare trying to set it up.
 
-    Element Web: (Coming soon.)
+   Element Web: (Coming soon.)
 
 Are you a member of Campfire and would like to join the Matrix server for testing?
 
@@ -31,7 +31,7 @@ Useful little tool to make sure that everything is up and running the way that i
 Campfire MC Uptime Kuma can be found at [Minecraft Uptime]. This will be expanded to some other services eventually(tm). Most of the infrastructure, including Uptime Kuma run off of one(ish) server.
 
 ## MerchantPerson.org Website
-This website is built using [Jekyll] with the [Just the Docs][^1] template. Will eventually need to figure out a way to build/push to the Matrix server to deploy but that's a problem for future me. 
+This website is built using [Jekyll] with the [Just the Docs] [^1] template. Will eventually need to figure out a way to build/push to the Matrix server to deploy but that's a problem for future me. 
 
 ### Licensing and Attribution
 
@@ -40,7 +40,6 @@ This repository is licensed under the [MIT License]. You are generally free to r
 
 {: .fs-1 } 
 The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
-
 
 ----
 
