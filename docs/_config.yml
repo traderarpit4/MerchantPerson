@@ -3,16 +3,12 @@ description: A simple website for my personal projects and experiments.
 theme: just-the-docs
 color_scheme: dark # Color scheme supports "light" (default) and "dark" 
 
-logo:
-  path: "/assets/images/logo.png"
-  height: 150
-  alt: "MerchantPerson Logo"
+logo: "/assets/images/logo.png"
+
+just_the_docs_custom_css: "/assets/css/custom.css" # Loads the custom CSS for changing the height of the logo. 
 
 url: https://merchantperson.org
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-
-# aux_links:
-#   Template Repository: https://github.com/just-the-docs/just-the-docs-template

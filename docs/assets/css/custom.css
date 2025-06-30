@@ -1,0 +1,8 @@
+/* Center and resize the logo in the header */
+.site-header .site-logo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px; /* Change this value for your desired height */
+  width: auto;   /* Maintain aspect ratio */
+}
