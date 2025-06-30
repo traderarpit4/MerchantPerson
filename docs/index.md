@@ -25,13 +25,13 @@ Currently working on deploying Element web and Matrix as a secure backup for Cam
 
 Are you a member of Campfire and would like to join the Matrix server for testing?
 
+## MerchantPerson.org Website
+This website is built using [Jekyll] with the [Just the Docs] template[^1]. Will eventually need to figure out a way to build/push to the Matrix server to deploy but that's a problem for future me. 
+
 ### Uptime Kuma
 Useful little tool to make sure that everything is up and running the way that it should be. Mostly tells me when the Minecraft server is offline. 
 
 Campfire MC Uptime Kuma can be found at [Minecraft Uptime]. This will be expanded to some other services eventually(tm). Most of the infrastructure, including Uptime Kuma run off of one(ish) server.
-
-## MerchantPerson.org Website
-This website is built using [Jekyll] with the[^1] [Just the Docs] template. Will eventually need to figure out a way to build/push to the Matrix server to deploy but that's a problem for future me. 
 
 ### Licensing and Attribution
 
