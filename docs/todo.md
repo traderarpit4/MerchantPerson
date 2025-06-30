@@ -21,8 +21,8 @@ The current to do list, broken down by project.
         - [ ] Test voice call feature
     - [ ] Setup MDAD to serve a static page
         - [ ] Create an automation to build and publish this site to the folder serving the static page
-            - [ ] Use AUX
-            - [ ] 
+            - [ ] Use AUX (found in MASH) to simplify the process for managing this
+            - [ ] Find a service or some code that monitors 
         - [ ] Figure out some other way to serve a static site that plays well with MDAD
             - [ ] See if there's a way to use GitHub Pages for that deployment
 

@@ -31,10 +31,18 @@ Useful little tool to make sure that everything is up and running the way that i
 Campfire MC Uptime Kuma can be found at [Minecraft Uptime]. This will be expanded to some other services eventually(tm). Most of the infrastructure, including Uptime Kuma run off of one(ish) server.
 
 ## MerchantPerson.org Website
-This website is built using [Jekyll] with the [Just the Docs] template. Will eventually need to figure out a way to build/push to the Matrix server to deploy but that's a problem for future me. 
+This website is built using [Jekyll] with the [Just the Docs][^1] template. Will eventually need to figure out a way to build/push to the Matrix server to deploy but that's a problem for future me. 
+
+### Licensing and Attribution
+
+{: .fs-2 } This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
+
+The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
 
 
 ----
+
+[^1]: Flashbang warning.
 
 [Matrix-Docker-Ansible-Deploy]: https://github.com/spantaleev/matrix-docker-ansible-deploy/tree/master
 [Minecraft Uptime]: https://kuma.merchantperson.org/status/campfiremc
@@ -42,3 +50,7 @@ This website is built using [Jekyll] with the [Just the Docs] template. Will eve
 [Jekyll]: https://jekyllrb.com
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
+
+[MIT License]: https://en.wikipedia.org/wiki/MIT_License
+[starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
+[actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
