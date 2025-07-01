@@ -1,13 +1,18 @@
+/* Define a custom variable for header height at the root level */
+:root {
+    --header-height: 5rem;
+}
+
 /* Center and resize the logo in the header */
 .side-bar .site-header {
     display: flex;
-    min-height: 5rem;
+    min-height: var(--header-height);
     flex-direction: column;
     align-items: center;
 }
 
 .side-bar .site-header .site-title {
-    height: 200%; /* Adjust as needed */
+    height: var(--header-height); /* Use the variable */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,11 +23,13 @@
     margin-left: auto;
     margin-right: auto;
     height: auto !important; /* Adjust as needed */
-    width: auto !important;   /* Maintain aspect ratio */
+    width: 100% !important;   /* Maintain aspect ratio */
+    justify-content: center;
+    align-items: center;
 }
 
-  .main-header {
+.main-header {
     display: flex;
     justify-content: space-between;
-    height: 5rem;
-  }
+    height: var(--header-height); /* Use the variable */
+}
