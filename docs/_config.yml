@@ -3,9 +3,7 @@ description: A simple website for my personal projects and experiments.
 theme: just-the-docs
 color_scheme: dark # Color scheme supports "light" (default) and "dark" 
 
-logo:
-  path: "/assets/images/logo.png"
-  width: 200 # Width of the logo in pixels
+logo: "/assets/images/logo.png"
 
 just_the_docs_custom_css: "/assets/css/custom.css" # Loads the custom CSS for changing the height of the logo. 
 
