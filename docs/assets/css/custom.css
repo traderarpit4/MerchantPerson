@@ -23,8 +23,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: auto !important; /* Adjust as needed */
-    width: 200% !important;   /* Maintain aspect ratio */
+    height: 200% !important; /* Adjust as needed */
+    width: auto !important;   /* Maintain aspect ratio */
     justify-content: center;
     align-items: center;
 }
