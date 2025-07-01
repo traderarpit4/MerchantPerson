@@ -16,11 +16,11 @@ I might eventually spool up a little wiki or something for the Campfire Roleplay
 ### The Campfire Minecraft Server
 Campfire MC is a server that's been around since around 2014-2015, and under my ownership since 2019.
 
->    Minecraft Server IP: mc.merchantperson.org
+>    **Minecraft Server IP:** mc.merchantperson.org
 >
->    Minecraft Version: 1.21.1
+>    **Minecraft Version:** 1.21.1
 >
->    Style: Vanilla
+>    **Style:** Vanilla Survival
 
 ### Element // Matrix
 Currently working on deploying Element web and Matrix as a secure backup for Campfire using the [Matrix-Docker-Ansible-Deploy] Playbook. It definitely wasn't a mild nightmare trying to set it up.
