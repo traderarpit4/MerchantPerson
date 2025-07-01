@@ -11,7 +11,7 @@
     align-items: center;
 }
 
-.side-bar .site-header .site-title {
+.side-bar .site-header .site-title.\31 h-tight {
     height: var(--header-height); /* Use the variable */
     display: flex;
     justify-content: center;
