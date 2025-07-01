@@ -23,7 +23,7 @@
     margin-left: auto;
     margin-right: auto;
     height: auto !important; /* Adjust as needed */
-    width: 100% !important;   /* Maintain aspect ratio */
+    width: 200% !important;   /* Maintain aspect ratio */
     justify-content: center;
     align-items: center;
 }
