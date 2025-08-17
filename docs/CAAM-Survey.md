@@ -6,4 +6,4 @@ nav_exclude: true
 layout: default
 ---
 
-You seem to be here a little early kind stranger. A live version of this document will be made available as soon as possible! 
+You seem to be here a little early kind stranger. A live version of the survey for student needs will be made available as soon as possible! 
