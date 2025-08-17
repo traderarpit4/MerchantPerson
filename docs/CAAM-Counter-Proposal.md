@@ -1,7 +1,7 @@
 ---
 title: CAAM Counter Proposal
 permalink: /CAAM-Counter-Proposal/
-// redirect_to: 
+## redirect_to: 
 nav_exclude: true
 layout: default
 ---
