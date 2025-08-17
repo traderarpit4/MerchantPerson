@@ -1,7 +1,8 @@
 ---
 title: Redirect to external site
 permalink: /CAAM/
-redirect_to: 
+// redirect_to: 
+nav_exclude: true
 layout: default
 ---
 
