@@ -1,6 +1,6 @@
 ---
-title: What is CAAM?
 layout: default
+title: What is CAAM?
 parent: The CAAM Proposal Summary
 last_modified_date: {{ {% last_modified_at %} | date: "%Y-%m-%d" }}
 ---
