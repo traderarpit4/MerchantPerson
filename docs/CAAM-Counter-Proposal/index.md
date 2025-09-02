@@ -3,9 +3,8 @@ title: The CAAM Proposal Summary
 permalink: /CAAM-Counter-Proposal/
 layout: post
 
-```liquid
 last_modified_date: {{ page.last_modified_at | date: "%Y-%m-%d" }}
-```
+
 ---
 
 # The CAAM Counter Proposal Summary

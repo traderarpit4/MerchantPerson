@@ -4,9 +4,7 @@ layout: post
 
 parent: The CAAM Proposal Summary
 
-```liquid
 last_modified_date: {{ page.last_modified_at | date: "%Y-%m-%d" }}
-```
 ---
 
 # What is CAAM?
