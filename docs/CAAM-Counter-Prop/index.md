@@ -12,7 +12,7 @@ Date: September 1st, 2025
 *Original Authors: Saif Boraei (PHOT), Arpit Nigam (PHOT) and Ines Tang (ILLU).*
 *Campaigns and Action Committee Reviewers: Ása Berezny (PRPB), Jobie Wayara (PRPB), Olivia Reynolds (INTM), Riley Midroni (SCIN)*
 
-*Summary written by Olivia Reynolds | Editted by Arpit Nigam*
+*Summary written by Olivia Reynolds // Editted by Arpit Nigam*
 
 
 ## Preface
@@ -28,7 +28,7 @@ This is a document written with love, inspired in no small part by the late prof
 
 # Introduction
 
-*![](../../docs/assets/images/CAAM-Flow-Chart.png)*
+*![](/assets/images/CAAM-Flow-Chart.png)*
 
 On March 6th 2025, the Faculty of Art Dean proposed a new BFA (Bachelor of Fine Arts) program called Contemporary Art and Media (CAAM). This program seeks to combine four existing programs—Integrated Media (INTM), Photography (PHOT), Printmaking & Publications (PRPB), and Sculpture & Installation (SCIN)—into a single program that aims to fill the growing demand for versatile art practices, and provide foundational skills and knowledge in the contemporary art world. The program, proposed to take effect starting in September 2028, would eliminate and replace the existing programs, but aims to maintain the curriculum.
 
