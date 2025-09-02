@@ -2,7 +2,7 @@
 layout: default
 title: The CAAM Proposal Summary
 permalink: /CAAM-Counter-Proposal/
-last_modified_date: {{ {% last_modified_at %} | date: "%Y-%m-%d" }}
+last_modified_date: 2025-09-02
 ---
 
 # The CAAM Counter Proposal Summary
@@ -28,8 +28,7 @@ This is a document written with love, inspired in no small part by the late prof
 
 # Introduction
 
-*![](image1)*  
-
+*![](../../docs/assets/images/CAAM-Flow-Chart.png)*
 
 On March 6th 2025, the Faculty of Art Dean proposed a new BFA (Bachelor of Fine Arts) program called Contemporary Art and Media (CAAM). This program seeks to combine four existing programs—Integrated Media (INTM), Photography (PHOT), Printmaking & Publications (PRPB), and Sculpture & Installation (SCIN)—into a single program that aims to fill the growing demand for versatile art practices, and provide foundational skills and knowledge in the contemporary art world. The program, proposed to take effect starting in September 2028, would eliminate and replace the existing programs, but aims to maintain the curriculum.
 
@@ -87,6 +86,5 @@ Overall, we feel these new options provide significant benefits over the propose
 
 ----
 
-[image1]: <..\..\docs\assets\images\CAAM-Flow-Chart.png>
 [Mailing list]: https://forms.gle/iRCmZ9qY91EnrAAT7
-[this article]: <..\..\docs\CAAM-Counter-Prop\what-is-caam.md>
+[this article]: "../../docs/CAAM-Counter-Prop/what-is-caam.md"
