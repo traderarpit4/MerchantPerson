@@ -16,7 +16,7 @@ I might eventually spool up a little wiki or something for the Campfire Roleplay
 ### The Campfire Minecraft Server
 Campfire MC is a server that's been around since around 2014-2015, and under my ownership since 2019.
 
->    **Minecraft Server IP:** mc.merchantperson.org
+>    **Minecraft Server IP:** \[Redacted for privacy\]
 >
 >    **Minecraft Version:** 1.21.1
 >
