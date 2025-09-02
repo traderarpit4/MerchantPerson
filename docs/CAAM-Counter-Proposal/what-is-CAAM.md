@@ -4,13 +4,13 @@ layout: post
 
 parent: The CAAM Proposal Summary
 
-last_modified_date: {{ page.last_modified_at | date: "%Y-%m-%d" }}
+last_modified_date: {{ {% last_modified_at %} | date: "%Y-%m-%d" }}
 ---
 
 # What is CAAM?
 
 #### Written by Arpit Nigam
-*[Originally published] by [Commonplace Mag] on September 2nd, 2025, reposted here for posterity*
+##### *[Originally published] by [Commonplace Mag] on September 2nd, 2025, reposted with some edits for posterity.*
 
 On Wednesday May 28th, 2025 the Faculty of Art held a visioning session about a new program called *Contemporary Art and Media* (CAAM), a proposal to close and combine four existing programs: Photography, Integrated Media, Printmaking & Publications, and Sculpture & Installation. The Letter of Intent, which has yet to be released publicly and was provided to the Students Union under confidentiality, states that this merger would streamline these programs in response to financial pressures, by reducing administrative duplication and offering more flexible, multidisciplinary learning. However, after a quick read, it wasn’t clear how the university planned to maintain program structures and still create “efficiencies” without cutting courses or increasing class sizes. 
 
