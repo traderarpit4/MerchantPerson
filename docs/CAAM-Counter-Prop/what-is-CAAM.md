@@ -35,7 +35,7 @@ You can find a [Summary of the CAAM Counter Proposal] here.
 Want to provide feedback on the summary or get notified when the full Counter Proposal is released? Sign up for the CAAM mailing list here.
 
 ---
-[Summary of the CAAM Counter Proposal]: <..\..\docs\CAAM-Counter-Proposal\index.md>
+[Summary of the CAAM Counter Proposal]: <..\..\docs\CAAM-Counter-Prop\index.md>
 [Commonplace Mag]: https://commonplacemag.ca/
 [Originally published]: https://commonplacemag.ca/issue-1-what-is-caam/
 

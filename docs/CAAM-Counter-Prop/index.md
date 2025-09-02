@@ -89,4 +89,4 @@ Overall, we feel these new options provide significant benefits over the propose
 
 [image1]: <..\..\docs\assets\images\CAAM-Flow-Chart.png>
 [Mailing list]: https://forms.gle/iRCmZ9qY91EnrAAT7
-[this article]: <..\..\docs\CAAM-Counter-Proposal\what-is-caam.md>
+[this article]: <..\..\docs\CAAM-Counter-Prop\what-is-caam.md>
