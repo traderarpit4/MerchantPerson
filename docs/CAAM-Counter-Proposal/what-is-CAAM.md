@@ -1,15 +1,18 @@
 ---
-title: The CAAM Counter Proposal Summarised
-permalink: /CAAM-Counter-Proposal/
+title: What is CAAM?
 layout: post
 
-last_modified_date: 2025-09-02
+parent: The CAAM Proposal Summary
+
+```liquid
+last_modified_date: {{ page.last_modified_at | date: "%Y-%m-%d" }}
+```
 ---
 
 # What is CAAM?
 
 #### Written by Arpit Nigam
-*[Originally published] for [Commonplace Mag] on September 2nd, 2025*
+*[Originally published] by [Commonplace Mag] on September 2nd, 2025, reposted here for posterity*
 
 On Wednesday May 28th, 2025 the Faculty of Art held a visioning session about a new program called *Contemporary Art and Media* (CAAM), a proposal to close and combine four existing programs: Photography, Integrated Media, Printmaking & Publications, and Sculpture & Installation. The Letter of Intent, which has yet to be released publicly and was provided to the Students Union under confidentiality, states that this merger would streamline these programs in response to financial pressures, by reducing administrative duplication and offering more flexible, multidisciplinary learning. However, after a quick read, it wasn’t clear how the university planned to maintain program structures and still create “efficiencies” without cutting courses or increasing class sizes. 
 
@@ -36,7 +39,7 @@ You can find a [Summary of the CAAM Counter Proposal] here.
 Want to provide feedback on the summary or get notified when the full Counter Proposal is released? Sign up for the CAAM mailing list here.
 
 ---
-[Summary of the CAAM Counter Proposal]: <..\..\docs\The CAAM Counter Proposal\index.md>
+[Summary of the CAAM Counter Proposal]: <..\..\docs\CAAM-Counter-Proposal\index.md>
 [Commonplace Mag]: https://commonplacemag.ca/
 [Originally published]: https://commonplacemag.ca/issue-1-what-is-caam/
 
