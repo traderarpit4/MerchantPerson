@@ -1,7 +1,7 @@
 ---
 title: The CAAM Proposal Summary
 permalink: /CAAM-Counter-Proposal/
-layout: post
+layout: default
 last_modified_date: {{ {% last_modified_at %} | date: "%Y-%m-%d" }}
 ---
 
