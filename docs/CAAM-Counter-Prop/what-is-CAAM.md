@@ -34,12 +34,13 @@ We are inviting feedback from students, faculty, and staff. This is not just our
 
 You can find a [Summary of the CAAM Counter Proposal] here.
 
-Want to provide feedback on the summary or get notified when the full Counter Proposal is released? Sign up for the CAAM mailing list here.
+Want to provide feedback on the summary or get notified when the full Counter Proposal is released? Sign up for the [CAAM mailing list] here.
 
 ---
-[Summary of the CAAM Counter Proposal]: <..\..\docs\CAAM-Counter-Prop\index.md>
+[Summary of the CAAM Counter Proposal]: https://merchantperson.org/CAAM-Counter-Proposal/
 [Commonplace Mag]: https://commonplacemag.ca/
 [Originally published]: https://commonplacemag.ca/issue-1-what-is-caam/
+[CAAM Mailing List]: https://docs.google.com/forms/d/e/1FAIpQLSdD6Z4lJvBI78kWy2TiKWi7EsMWXq4oj1Uq1NLmtk4_yiBopw/viewform?usp=header
 
 
 

@@ -84,6 +84,8 @@ Embedding print media skills within Illustration and Graphic Design curricula br
 
 Overall, we feel these new options provide significant benefits over the proposed CAAM program, and solve many inefficiencies and overlaps. We believe this would lead to great financial savings, and ultimately allow for studio access and programming to continue in a time of financial hardship for Ontario post-secondary institutions. This proposal highly aligns with OCAD U’s Academic and Strategic Plan, as well as with OCAD U CO’s Seven Strategic Considerations, ensuring an appropriate fit in the institution. Finally, this proposal was made possible with meaningful consultation of students and faculty of all disciplines, and is inclusive to many perspectives and visions of what OCAD U can be. We hope the future of OCAD U is bright.
 
+Want to stay updated? Please sign up for our [Mailing List], you can also share your thoughts about this article and ask questions.
+
 ----
 
 [Mailing list]: https://forms.gle/iRCmZ9qY91EnrAAT7
